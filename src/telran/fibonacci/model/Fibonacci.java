@@ -3,7 +3,7 @@ package telran.fibonacci.model;
 import java.util.Iterator;
 
 public class Fibonacci implements Iterable<Integer>{
-    // Fibonacci fibonacci = new Fibonacci(7);
+    // Fibonacci fibonacci = new Fibonacci(8);
     // 1,1,2,3,5,8,13,21
     // print all numbers and reduce sum
     // sum = 54;
